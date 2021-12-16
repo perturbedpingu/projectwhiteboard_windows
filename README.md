@@ -14,5 +14,7 @@ Download and unzip this repository, then run "ProjectWhiteboard.exe"
 
 ## Other Links
 ProjectWhiteboard is available for the following platforms:
+
 HTML5 (Browser) : https://github.com/perturbedpingu/projectwhiteboard_html5_optimized
+
 Android : https://github.com/perturbedpingu/projectwhiteboard_android
