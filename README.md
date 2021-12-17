@@ -8,7 +8,7 @@ ProjectWhiteboard is a "virtual strategy board" for the VEX Robotics Competition
 - _**Annotation tools**_ to plan out your match strategies, etc
 - _**Save**_ your annotations so you can revisit them later
 
-## How to use?
+## Installation
 
 [Download](https://github.com/perturbedpingu/projectwhiteboard_windows/archive/refs/heads/main.zip) and unzip this repository, then run "ProjectWhiteboard.exe"
 
